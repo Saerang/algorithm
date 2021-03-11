@@ -1,4 +1,4 @@
-package data_structure;
+package DS01.SinglyLinkedList;
 
 class Node {
 
